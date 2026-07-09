@@ -1,0 +1,2 @@
+# CrystalIDEA-uninstall-tool
+crystalidea uninstall tool uninstaller crystalidea software complete removal stubborn apps uninstall wizard install tracker installation monitor force removal batch uninstall startup manager registry cleaner leftover files portable mode clean pc windows 11 windows 10 desktop utility setup guide configuration tutorial troubleshooting download link
